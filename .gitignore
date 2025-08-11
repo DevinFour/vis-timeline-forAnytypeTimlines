@@ -29,3 +29,6 @@ npm-debug.log
 /standalone/
 /styles/
 /vis-timeline-0.0.0-no-version.tgz
+
+lib/.DS_Store
+.DS_Store
